@@ -1,6 +1,6 @@
 ARG RUNNER_VERSION
 
-FROM gitlab/gitlab-runner:$RUNNER_VERSION
+FROM gitlab/gitlab-runner:v11.7.0
 
 RUN apt-get update
 RUN apt-get install -y software-properties-common
