@@ -1,11 +1,11 @@
 # gitlab runner
 
-## gitlab runner with dotnet core
+## gitlab runner with ASP.NET Core 2.2
 
 ## gitlab runner with nodejs
 
-## gitlab runner with docker
+## gitlab runner with docker-ce-cli
 
 ## gitlab runner with android
 
-## gitlab runner with dotnet core、 nodejs and docker cli
+## gitlab runner with ASP.NET Core 2.2、 nodejs and docker-ce-cli
